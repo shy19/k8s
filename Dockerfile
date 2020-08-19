@@ -1,1 +1,1 @@
-docker pull gcr.io/google-samples/gb-redisslave:v3
+FROM gcr.io/google-samples/gb-redisslave:v3
